@@ -99,13 +99,13 @@
             // 
             // Put
             // 
-            this.Put.Location = new System.Drawing.Point(624, 40);
-            this.Put.Name = "Put";
-            this.Put.Size = new System.Drawing.Size(94, 62);
-            this.Put.TabIndex = 10;
-            this.Put.Text = "PUT";
-            this.Put.UseVisualStyleBackColor = true;
-            this.Put.Click += new System.EventHandler(this.button1_Click);
+            ////this.Put.Location = new System.Drawing.Point(624, 40);
+            ////this.Put.Name = "Put";
+            ////this.Put.Size = new System.Drawing.Size(94, 62);
+            ////this.Put.TabIndex = 10;
+            ////this.Put.Text = "PUT";
+            ////this.Put.UseVisualStyleBackColor = true;
+            ////this.Put.Click += new System.EventHandler(this.button1_Click);
             // 
             // CallAPI
             // 
